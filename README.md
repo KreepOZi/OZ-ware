@@ -1,6 +1,17 @@
 # OZ-ware
 OP OZ ware gui Da hood, Hood Customs [Silent-Aim, Resolver, Teleports and Animation Changer]```
 
+--⠀⠀⠀⠀⠀⠀⣠⣶⣾⣿⢿⣿⣷⣦⡀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+--⠀⠀⠀⠀⢀⣾⣿⠟⠁⠀⠀⠀⠙⢿⣿⣦⠀⠀⠀⠀⠀⣠⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+--⠀⠀⠀⠀⣾⣿⡏⠀⠀⠀⠀⠀⠀⠀⢿⣿⡆⠀⠀⠀⣴⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣤⡄⠀⣤⣤⠀⢀⣤⡄⣠⣤⣤⣤⣤⠄⢠⣤⣤⣤⢀⣤⣤⣤⣄⠀⠀⠀
+--⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⣸⣿⡇⠀⠀⣠⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⣿⣇⣾⣿⣿⣤⣿⡟⣼⣿⠋⠈⣿⣿⠀⣼⣿⠋⠁⣿⣿⣤⣼⣿⡆⠀⠀
+--⠀⠀⠀⠀⠹⣿⣷⡀⠀⠀⠀⠀⠀⣰⣿⡿⠁⠀⣴⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⢿⣿⡟⠁⣿⣿⠏⠀⠻⣿⣶⣶⣿⡟⢠⣿⡇⠀⠀⢿⣷⣦⣶⡄⠀⠀⠀
+--⠀⠀⠀⠀⠀⠙⢿⣿⣶⣤⣤⣴⣾⣿⠟⠁⢀⣾⣿⣿⣤⣤⣤⣤⣤⣤⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠈⠉⠀⠀⠀⠈⠉⠀⠉⠁⠈⠉⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀
+--⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠋⠉⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀ 
+--  Join to Discord server
+--https://discord.gg/gXFmjtDqgX           https://discord.gg/gXFmjtDqgX           https://discord.gg/gXFmjtDqgX
+
+
 Supporting games:
 game: https://www.roblox.com/games/2788229376/Da-Hood
 game: https://www.roblox.com/games/9825515356/Hood-Customs```
@@ -40,16 +51,5 @@ Why is the best script?:
 -resolver
 
 script:
-
---⠀⠀⠀⠀⠀⠀⣠⣶⣾⣿⢿⣿⣷⣦⡀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
---⠀⠀⠀⠀⢀⣾⣿⠟⠁⠀⠀⠀⠙⢿⣿⣦⠀⠀⠀⠀⠀⣠⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
---⠀⠀⠀⠀⣾⣿⡏⠀⠀⠀⠀⠀⠀⠀⢿⣿⡆⠀⠀⠀⣴⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣤⡄⠀⣤⣤⠀⢀⣤⡄⣠⣤⣤⣤⣤⠄⢠⣤⣤⣤⢀⣤⣤⣤⣄⠀⠀⠀
---⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⣸⣿⡇⠀⠀⣠⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⣿⣇⣾⣿⣿⣤⣿⡟⣼⣿⠋⠈⣿⣿⠀⣼⣿⠋⠁⣿⣿⣤⣼⣿⡆⠀⠀
---⠀⠀⠀⠀⠹⣿⣷⡀⠀⠀⠀⠀⠀⣰⣿⡿⠁⠀⣴⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⢿⣿⡟⠁⣿⣿⠏⠀⠻⣿⣶⣶⣿⡟⢠⣿⡇⠀⠀⢿⣷⣦⣶⡄⠀⠀⠀
---⠀⠀⠀⠀⠀⠙⢿⣿⣶⣤⣤⣴⣾⣿⠟⠁⢀⣾⣿⣿⣤⣤⣤⣤⣤⣤⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠈⠉⠀⠀⠀⠈⠉⠀⠉⠁⠈⠉⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀
---⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠋⠉⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀ 
---  Join to Discord server
---https://discord.gg/gXFmjtDqgX           https://discord.gg/gXFmjtDqgX           https://discord.gg/gXFmjtDqgX
-
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KreepOZi/OZ-ware/main/Main"))()
