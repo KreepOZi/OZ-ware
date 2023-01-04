@@ -14,7 +14,8 @@ OP OZ ware gui Da hood, Hood Customs [Silent-Aim, Resolver, Teleports and Animat
 
 Supporting games:
 game: https://www.roblox.com/games/2788229376/Da-Hood
-game: https://www.roblox.com/games/9825515356/Hood-Customs```
+game: https://www.roblox.com/games/9825515356/Hood-Customs
+and other hood games
 
 executors and description:
 Synapse x, Krnl, Krnl Beta, Hydrogen, Raduga, Trx, Script-Ware, Fluxus, Fluxus Lite, Electron
